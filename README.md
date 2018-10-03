@@ -3,4 +3,4 @@
 - This for my blogger or someone does have a blogger that it's can't hosted any files.
 
 # files
-- Rivolicons by <a href="http://hadrien.co/" target="_blank">Hadrien Boyer</a> - http://rivolicons.hadrien.co/free
+- Rivolicons by <a href="http://hadrien.co/" target="_blank">Hadrien Boyer</a> - <a href="http://hadrien.co/" target="_blank">http://rivolicons.hadrien.co/free</a>
